@@ -15,11 +15,10 @@ function App() {
     <Container>
       <Nav />
       <Home />
-      {/* <Features /> */}
-      <Services />
-      <Service2 />
-      <Service3 />
-      <Contact />
+      <Services /> {/* Fully By AI */}
+      <Service2 /> {/* Partially AI */}
+      <Service3 /> {/* Partially AI */}
+      <Contact /> {/* Partially AI */}
     </Container>
   );
 }
